@@ -3,7 +3,7 @@ import Card from "../components/Card";
 const Home = () => {
     const lessons = [
         { title: "Component de formulario", description: "Criação de um formulario com inputs de nome, data de nascimento, selecionar sexo", path: "/aula-1" },
-        { title: "Aula 2", description: "JavaScript Básico", path: "/aula-2" },
+        { title: "Aula 2", description: "Fazer uma listagem ultilizando input", path: "/aula-2" },
         { title: "Aula 3", description: "DOM e Eventos", path: "/aula-3" },
         { title: "Aula 4", description: "React Fundamentos", path: "/aula-4" },
         { title: "Aula 5", description: "Componentes e Props", path: "/aula-5" },

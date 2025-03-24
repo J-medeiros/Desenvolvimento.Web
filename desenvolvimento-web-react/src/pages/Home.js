@@ -4,7 +4,8 @@ const Home = () => {
     const lessons = [
         { title: "Component de formulario", description: "Criação de um formulario com inputs de nome, data de nascimento, selecionar sexo", path: "/aula-1" },
         { title: "Aula 2", description: "Fazer uma listagem ultilizando input", path: "/aula-2" },
-        { title: "Prova N1", description: "Desenvolver uma aplicação React que permita o cadastro de usuários por meio de um formulário, utilize o react-router-dom para navegação e exiba uma lista de usuários cadastrados.", path: "/prova-avliativa-n1" },
+        { title: "Component sem estato", description: "Criar contador sem useState", path: "/contador-com-estado" },
+        { title: "Component com estato", description: "Criar contador com useState", path: "/contador-sem-estado" },
     ];
 
     return (

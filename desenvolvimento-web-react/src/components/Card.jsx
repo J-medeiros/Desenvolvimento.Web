@@ -36,8 +36,8 @@ const style = {
         textAlin: "center",
     },
     link: {
-        textDecoration: "none", // Removendo o sublinhado
-        color: "inherit", // Mantendo a cor padrão do texto
+        textDecoration: "none",
+        color: "inherit",
     }
 };
 

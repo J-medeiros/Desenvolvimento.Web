@@ -11,7 +11,7 @@ const Home = () => {
     const lessonsN2 = [
         {
             title: "05/02", description: "Faça um componente como o contador utilizado em sala de aula  useReef " +
-                "useReducer, useLayoutEffect, useImperativeHandle", path: "/Hooks"
+                "useReducer, useLayoutEffect, useImperativeHandle", path: "/hooks"
         }
     ];
 
